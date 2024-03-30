@@ -2,11 +2,11 @@ var config = {
     /*在这里配置你的基本信息，所有数据以字符串形式给出*/
     name: "思无邪",
     sex: "男",
-    // age: "19",
-    // phone: "19870887127",
+    age: "??",
+    phone: "???哈哈",
     email: "cwl990110@163.com",
     address: "earth",
-    // qq: "1637318597",
+    qq: "",
     log: "思无邪",
     excpect_work: "Java/Go/Rust后端开发",
 
@@ -38,8 +38,8 @@ var config = {
 
 
     /*在这里配置关于我的信息，你可以内嵌HTML标签以调整格式*/
-    about: "<p>我的兴趣是后端开发，一只菜liao，深感自己能力有限，希望自己能够持续做好，comes better</p>" +
-        "<p>十分期待自己能做自己认为对的事情而不是做“想做”的事情</p>",
+    about: "<p>我的兴趣是后端开发，一只菜liao，深感自己能力有限，希望自己能够持续做好，become better！</p>" +
+        "<p>希望能做自己认为对的事情而不是做“想做”的事情。</p>",
 
 
 
@@ -79,7 +79,7 @@ var config = {
      */
     portfolio: [
         ["./images/raft_intro.png", "https://github.com/youngyangyang04/KVstorageBaseRaft-cpp", "基于Raft的k-v存储数据库（主要开发者）", "基于Raft公式算法的k-v存储跳表数据库<br>C++语言"],
-        ["./images/pro-2.png", "https://github.com/happysnaker/Gobang", "pikiwidb（参与）", "Redis Server, use RocksDB for persist storage.<br>C++语言"],
+        ["./images/pikiwidb.png", "https://github.com/happysnaker/Gobang", "pikiwidb（参与）", "Redis Server, use RocksDB for persist storage.<br>C++语言"],
         // ["https://pic3.zhimg.com/80/v2-d9766956d5c85c2780e4c5008fd946ca_1440w.jpg", "https://github.com/happysnaker/StudentsManageSystem", "学生管理系统", "C语言+AVL树+多重双向表实现"]
     ],
 
@@ -130,8 +130,8 @@ var config = {
      */
     icon: [
         // ["./svg/LeetCode.svg", "https://leetcode-cn.com/u/happysnaker/", "我的力扣主页"],
-        ["./svg/github.svg", "https://github.com/578223592", "我的GitHub主页"],
-        ["./svg/博客.svg", "https://www.cnblogs.com/swx123", "我的博客园"],
+        ["./svg/github.svg", "https://github.com/578223592", "GitHub"],
+        ["./svg/博客.svg", "https://www.cnblogs.com/swx123", "博客园"],
         // ["./svg/掘金.svg", "https://juejin.cn/user/3853167638625000", "我的掘金主页"],
         // ["./svg/知乎.svg", "https://www.zhihu.com/people/tian-xia-you-dao-81", "我的知乎主页"]
     ],
